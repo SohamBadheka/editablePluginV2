@@ -9,6 +9,10 @@ Here is the screenshot of how the webpage will look like:
 
 ![alt tag](https://cdn.filestackcontent.com/zxrGFccQSGKXVuL9F974 "Edit Plugin")
 
+
+This values are fetched from the MongoDB and will be updated as and when edited.
+
+
 Once you click edit, it will give you options to select from the list. You can choose from "Manager", "Employee" and "Recruiter".
 You can either save the information or edit the information, the plugin will handle the changes for you!
 
