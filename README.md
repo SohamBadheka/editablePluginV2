@@ -6,10 +6,9 @@ EditablePluginV2 is a second version (modular version) of my repository editable
 Once you add <edit-me> directive beside the text, it will give you the edit button beside the text!
 
 Here is the screenshot of how the webpage will look like:
+(**These values are fetched from the MongoDB and will be updated as and when edited.**)
 
 ![alt tag](https://cdn.filestackcontent.com/zxrGFccQSGKXVuL9F974 "Edit Plugin")
-
-**This values are fetched from the MongoDB and will be updated as and when edited.**
 
 
 
