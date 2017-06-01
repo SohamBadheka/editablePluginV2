@@ -8,7 +8,6 @@
 angular.module('editingPlugin', [])
 
     .directive('editMe', function() {
-        alert('custom')
         return {
             restrict: 'AE',
             require: 'ngModel',

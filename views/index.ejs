@@ -16,15 +16,31 @@
   </div>
 
   <div class="col-md-6" ng-controller="PluginCtrl">
+    <table class="table table-hover">
+      <thead>
+      <tr>
 
-        <span id="name">{{name}}</span>:
 
-        <span ng-hide="editMode">{{level}}</span>
+        <th>Name</th>
+        <th>Level</th>
 
-    <!-- Edit directive that helps editing the field -->
 
-        <edit-me></edit-me>
+      </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <span id="name">{{name}}</span>:
+          </td>
 
+          <td><span ng-hide="editMode">{{level}}</span>
+          <!-- Edit directive that helps editing the field -->
+
+          <edit-me></edit-me>
+          </td>
+        </tr>
+      </tbody>
+      </table>
   </div>
 
 <div class="col-md-3"></div>
