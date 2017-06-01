@@ -9,7 +9,7 @@ Here is the screenshot of how the webpage will look like:
 
 ![alt tag](https://cdn.filestackcontent.com/zxrGFccQSGKXVuL9F974 "Edit Plugin")
 
-# This values are fetched from the MongoDB and will be updated as and when edited.
+**This values are fetched from the MongoDB and will be updated as and when edited.**
 
 
 
