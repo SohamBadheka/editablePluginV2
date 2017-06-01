@@ -1,6 +1,10 @@
 /**
  * Created by soham on 5/31/17.
  */
+
+/*
+ * Handles the view/template for the edit utility!
+ */
 angular.module('editingPlugin', [])
 
     .directive('editMe', function() {

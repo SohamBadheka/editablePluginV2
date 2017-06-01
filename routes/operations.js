@@ -1,10 +1,13 @@
 /* Save new information. */
 
 var monk = require('monk');
-var db = monk('localhost:27017/userInformation');
-var collection =  db.get('userInfo');
+var db = monk('localhost:27017/userInformation'); //Database that will hold the data
 
-exports.getUsers = function(req, res){
+var collection =  db.get('userInfo'); //Collection which will contain user entries
+
+/* This API will give you all the users in the database to start off the application */
+
+exports.getUserDetails = function(req, res){
     collection.find({}, function(e, data){
 
         console.log("all users: "+data[0]);
@@ -17,7 +20,10 @@ exports.getUsers = function(req, res){
     })
 
 }
-exports.save = function(req, res){
+
+/* This API will save/update the user information in the database */
+
+exports.saveUserDetails = function(req, res){
 
     var userType = req.param('level');
     var name =  req.param('name');

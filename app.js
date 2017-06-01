@@ -25,8 +25,8 @@ app.use(app.router);
 
 app.get('/', routes.index);
 
-app.get('/getUsers', operations.getUsers);
-app.post('/saveData', operations.save);
+app.get('/getUsers', operations.getUserDetails);
+app.post('/saveData', operations.saveUserDetails);
 
 /// catch 404 and forwarding to error handler
 app.use(function(req, res, next) {
