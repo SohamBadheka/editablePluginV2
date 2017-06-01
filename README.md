@@ -12,5 +12,5 @@ Here is the screenshot of how the webpage will look like:
 Once you click edit, it will give you options to select from the list. You can choose from "Manager", "Employee" and "Recruiter".
 You can either save the information or edit the information, the plugin will handle the changes for you!
 
-![alt tag] (https://cdn.filestackcontent.com/vpX2JBPRUWc0fAm1wIbd "Save or Cancel")
+![alt tag](https://cdn.filestackcontent.com/vpX2JBPRUWc0fAm1wIbd "Save or Cancel")
 
