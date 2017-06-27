@@ -8,7 +8,7 @@ Once you add <edit-me> directive beside the text, it will give you the edit butt
 Here is the screenshot of how the webpage will look like:
 (**These values are fetched from the MongoDB and will be updated as and when edited.**)
 
-![alt tag](https://cdn.filestackcontent.com/zxrGFccQSGKXVuL9F974 "Edit Plugin")
+![alt tag](https://github.com/SohamBadheka/editablePluginV2/Screen Shot 2017-06-27 at 1.28.47 AM.png "Edit Plugin")
 
 
 
