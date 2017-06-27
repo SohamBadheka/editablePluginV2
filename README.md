@@ -8,12 +8,12 @@ Once you add <edit-me> directive beside the text, it will give you the edit butt
 Here is the screenshot of how the webpage will look like:
 (**These values are fetched from the MongoDB and will be updated as and when edited.**)
 
-![alt tag](https://github.com/SohamBadheka/editablePluginV2/Screen Shot 2017-06-27 at 1.28.47 AM.png "Edit Plugin")
+![alt tag](https://github.com/SohamBadheka/editablePluginV2/dashboard.png "Edit Plugin")
 
 
 
 Once you click edit, it will give you options to select from the list. You can choose from "Manager", "Employee" and "Recruiter".
 You can either save the information or edit the information, the plugin will handle the changes for you!
 
-![alt tag](https://cdn.filestackcontent.com/vpX2JBPRUWc0fAm1wIbd "Save or Cancel")
+![alt tag](https://github.com/SohamBadheka/editablePluginV2/edit.png "Save or Cancel")
 
